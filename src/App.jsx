@@ -6,7 +6,7 @@ import TopLogoPR from "../public/images/TopLogoPR.jpg";
 // import logo from "../public/images/logo.png";
 import { MdHome } from "react-icons/md";
 
-const clientId = '2bfeb25127d34c8fa26bae287a318f97';
+const clientId = '63d56436770e4dbd83285b715a0a7508';
 const redirectUri = 'https://spotub.vercel.app/';
 // const redirectUri = window.location.origin + '/';
 const scope = 'user-read-private user-read-email user-top-read user-library-read';
